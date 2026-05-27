@@ -223,7 +223,7 @@
                         <span class="inline-block px-3 py-1 rounded-full bg-brand-cream border border-brand-dark/5 text-xs font-semibold text-brand-copper mb-3">Bulan Pertama</span>
                         <h3 class="font-bold text-xl text-brand-dark mb-3">Foundation & Self Leadership</h3>
                         <p class="text-sm text-brand-muted leading-relaxed font-light text-left md:text-right">
-                            Kami akan mengajak kamu mengenal diri sendiri lebih dalam, membangun kembali kepercayaan diri, dan belajar mengelola diri dengan lebih baik selama menjalani gap year.
+                            Kami akan mengajak kamu mengenal diri sendiri lebih dalam, membangun kembali kepercayaan diri, and belajar mengelola diri dengan lebih baik selama menjalani gap year.
                         </p>
                     </div>
                     <div class="hidden md:block w-[45%]"></div>
